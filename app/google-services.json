@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634360429251",
+    "project_id": "programming-quiz-app-b7f7d",
+    "storage_bucket": "programming-quiz-app-b7f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634360429251:android:a4cf966ff43ed05c280076",
+        "android_client_info": {
+          "package_name": "com.prac.programmingquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634360429251-jn7om05kqmo16faqs5a4r12asqqolrs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEn3Dn3ukwn0jJDq_DPD9J4cpr5doT78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634360429251-jn7om05kqmo16faqs5a4r12asqqolrs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
